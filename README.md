@@ -1,0 +1,1 @@
+ A movie app where movies are stored by name, genre and year and the stored movies can be listed when requested.
